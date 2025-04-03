@@ -15,3 +15,4 @@ https://github.com/30DayChartChallenge/Edition2025
 
 ## Results
 
+Page: https://adeline-hub.github.io/30DayChartChallenge/
