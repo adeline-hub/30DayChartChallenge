@@ -2,7 +2,7 @@
 30DayChartChallenge 2025
 
 
-## Objective from organization
+## Objective from Challenge Owner
 
 Collection of contributions to and resources for the fifth #30DayChartChallenge in April 2025.
 https://github.com/30DayChartChallenge/Edition2025
