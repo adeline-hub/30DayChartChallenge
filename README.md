@@ -6,7 +6,7 @@
 
 https://github.com/30DayChartChallenge/Edition2025
 
-<img width=50% src='https://github.com/30DayChartChallenge/Edition2025/blob/main/img/prompts.png?raw=true'/>
+<img width=70% src='https://github.com/30DayChartChallenge/Edition2025/blob/main/img/prompts.png?raw=true'/>
 
 ## Results
 
