@@ -48,7 +48,7 @@ bars_eez = ax.bar(x, eez, color='#0099FF', label='EEZ Area (km²)', alpha=0.5)
 bars_land = ax.bar(x, land, color='#33FFA2', label='Land Area (km²)', alpha=0.5)
 
 # DESIGN
-# add df['Fraction %']
+# add df['Fraction %'] as label
 for i, bar in enumerate(bars_eez):
     fraction = df.iloc[i]['Fraction %']
     if pd.notna(fraction):
