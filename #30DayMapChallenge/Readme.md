@@ -8,3 +8,5 @@ source: https://30daymapchallenge.com/
 - The idea is to create maps based around different themes each day of November using the hashtag #30DayMapChallenge. 
 - All maps you publish have to be your original work.
 
+**resources**: 
+- https://automating-gis-processes.github.io/2016/Lesson1-Intro-Python-GIS.html
