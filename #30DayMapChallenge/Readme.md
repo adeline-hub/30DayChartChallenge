@@ -1,5 +1,5 @@
 source: https://30daymapchallenge.com/
-<img width='50%' src='https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/logo/30DMC_Sticker_Formal.svg'/>
+<img width='5%' src='https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/logo/30DMC_Sticker_Formal.svg'/>
 
 # #30DayMapChallenge
 
